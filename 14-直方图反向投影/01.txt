@@ -1,0 +1,3 @@
+ 直方图的反向衍射(反向投影)
+        设计2D直方图
+        cv.normalize()、 cv.calcBackProject()
