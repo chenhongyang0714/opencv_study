@@ -1,0 +1,3 @@
+       平方不同、相关性、相关性因子的 归一化
+       绘制矩形边框
+       cv.matchTemplate()、cv.minMaxLoc()、cv.rectangle()
